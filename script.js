@@ -19,4 +19,9 @@ function daysofAYear(year){
 	return 365;
 }
 
+daysofAYear(2022);
+daysofAYear(2024);
+daysofAYear(1900);
+daysofAYear(2000);
+
 
